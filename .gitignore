@@ -1,13 +1,13 @@
+# Python
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-.env
-.venv/
-venv/
-.ipynb_checkpoints/
+
+# macOS
 .DS_Store
 
-paper-figures/outputs/
-*.png
-*.pdf
+# Generated figures
+paper-figures-2-agent/
+
+# Archived repositories
+Archive/
